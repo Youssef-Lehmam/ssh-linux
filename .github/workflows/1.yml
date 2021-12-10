@@ -1,0 +1,5 @@
+steps:
+- uses: mdelillo/ssh-server-action@v1
+  with:
+    ngrok-authtoken: "<1tzTOnuqjGRF6ydGp8gXBNfQ4kT_5RgFo3W9Ftq5UaKnAFXkP>"
+    ssh-public-key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCDf+PkxeSrbC7VjkWg0kqB6pr1Vg18krVjJBxlBfhr5MmApNjsYPP5kiyW/nbbfZADhTAz7lKprRlnd5YkoJTMyeA/6ctM78vW3/czj3GTFD4gjmpApeitKkx35+b+fcacNnBd6+zSwS2Mu9uX2CTYrMW2zWJXny8D81jZRUOIPAPXG7CZXz19grevdnSZp1pUxZuXFouHHArdRSll0jTOQpTbw8YPwFCqphSU6PP4T+jSaHyFeRlJrRJTwWEa2QunC4nVXxqc3AL8WaLYVfUW8UY9AcyPl7aVAvvy4Izh8JLiOPhm45E7lh9PuuZ/RO9Zb1Cl77+TOJWqNO+kt1hn rsa-key-20211211"
